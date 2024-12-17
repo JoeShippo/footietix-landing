@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import heroBackground from "../assets/images/heroBG.jpg";
+import heroBackground from "../assets/images/heroBG.webp";
 
 const Hero = () => {
     return (

@@ -9,6 +9,7 @@ import TermsAndConditions from "./pages/TermsAndConditions";
 import CookiePolicy from "./pages/CookiePolicy";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import CookieBanner from "./components/CookieBanner"; // Import your CookieBanner
+import Challenge92 from "./pages/92Club";
 
 
 const App = () => (
@@ -39,6 +40,7 @@ const App = () => (
         <Route path="/terms-and-conditions" element={<TermsAndConditions />} />
         <Route path="/cookie-policy" element={<CookiePolicy />} />
         <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="/the-92-challenge" element={<Challenge92 />} />
       </Routes>
       <Footer />
     </div>

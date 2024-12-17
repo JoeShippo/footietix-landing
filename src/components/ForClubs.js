@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import ClubBG from "../assets/images/ClubsBG.jpg";
+import ClubBG from "../assets/images/ClubsBG.webp";
 
 const ForClubs = () => {
   return (

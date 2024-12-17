@@ -1,5 +1,5 @@
 import React from "react";
-import footballImage from "../assets/images/pexels-bohlemedia-1884574.jpg";
+import footballImage from "../assets/images/pexels-bohlemedia-1884574.webp";
 
 const IntroSection = () => {
     return (

@@ -1,9 +1,9 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Feature1 from "../assets/images/features/map.jpg"; // Replace with actual paths
-import Feature2 from "../assets/images/features/membership.jpg";
-import Feature3 from "../assets/images/features/social.jpg";
-import Feature4 from "../assets/images/features/gamification.jpg";
+import Feature1 from "../assets/images/features/map.webp"; // Replace with actual paths
+import Feature2 from "../assets/images/features/membership.webp";
+import Feature3 from "../assets/images/features/social.webp";
+import Feature4 from "../assets/images/features/gamification.webp";
 
 const ForFans = () => {
     return (
